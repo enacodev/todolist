@@ -94,7 +94,6 @@ class App extends Component {
         this.state.message = "Item removed successfully."
         event.stopPropagation();
     }
-    
 }
 
 export default App;
